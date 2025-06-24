@@ -1,4 +1,3 @@
 numpy>=1.16.2
 Pillow>=6.0.0
 pyphotonfile>=0.1.1
-PySide2>=5.12.2
